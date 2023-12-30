@@ -1,4 +1,4 @@
-const input=document.querySelector(".input-box");  //queryselector is used to select and html element
+const input=document.querySelector(".input-box");  //queryselector is used to select an html element
 const button=document.querySelector(".add-button");  //queryselector is used to select and html element
 const todolist=document.querySelector(".todo-list");  //queryselector is used to select and html element
 
